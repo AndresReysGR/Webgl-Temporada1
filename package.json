@@ -4,11 +4,12 @@
   "description": "Esto es un proyecto para enseñar a usar WebGL 2.0.",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jfcarocota/cglab-webgl-project.git"
+    "url": "git+https://github.com/AndresReysGR/cglab-webgl-project.git"
   },
   "keywords": [
     "webgl",
@@ -19,12 +20,12 @@
     "2d",
     "3d"
   ],
-  "author": "CG Lab",
+  "author": "Andres Ramon Reyes Galvan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jfcarocota/cglab-webgl-project/issues"
+    "url": "https://github.com/AndresReysGR/cglab-webgl-project/issues"
   },
-  "homepage": "https://github.com/jfcarocota/cglab-webgl-project#readme",
+  "homepage": "https://github.com/AndresReysGR/cglab-webgl-project#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
