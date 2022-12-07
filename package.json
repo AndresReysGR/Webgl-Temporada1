@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/AndresReysGR/cglab-webgl-project#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
